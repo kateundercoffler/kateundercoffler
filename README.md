@@ -1,4 +1,4 @@
-![Bonjour](https://raw.githubusercontent.com/kateundercoffler/kateundercoffler/main/Bonjour.svg)
+![Bonjour](https://raw.githubusercontent.com/kateundercoffler/kateundercoffler/main/GitHubBanner.gif)
 # Je m'appelle Kate !
 ****
 
