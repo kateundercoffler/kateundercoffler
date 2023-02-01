@@ -1,5 +1,5 @@
 ![Bonjour](https://raw.githubusercontent.com/kateundercoffler/kateundercoffler/main/GitHubBanner.gif)
-# Je m'appelle Kate !
+## Buongiorno, bonjour, hello :wave:
 ****
 
 Je suis étudiante, maman de deux belles chattes Lola et Basil, amoureuse des plantes et une personne magique  ✨
